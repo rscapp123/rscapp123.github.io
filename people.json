@@ -1,22 +1,8 @@
 [
 
-{	
-	"offence": "Drive a mechanically propelled vehicle on a road / in a public place without due care and attention.",
-	
-	"legislation": "Contrary to section 3 of the Road Traffic Act 1988 and Schedule 2 to the Road Traffic Offenders Act 1988."
-	
-	"code": "RT88575"
-	
-	"points": "3 points",
-	
-	"fine": "£100" 
-},
-
-
-
     {
         "id": "1",
-        "firstName": "John",
+        "points": "John",
         "lastName": "Doe"
     },
     {
